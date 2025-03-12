@@ -38,7 +38,7 @@ To run this project, ensure you have the following installed:
 Clone this repository:
 
 - git clone https://github.com/your-username/profit-prediction.git
-- cd profit-prediction
+
 
 ## Install the required dependencies:
 - pip install pandas numpy matplotlib scikit-learn
