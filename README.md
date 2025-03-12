@@ -19,33 +19,29 @@ Profit: Target variable, the profit earned (numeric).
 profit-prediction/
 │
  ├── online.csv           # Dataset file
- ├── Untitled.ipynb       # Jupyter Notebook with the code
+ ├── salary_multiple_linear_regression.ipynb       # Jupyter Notebook with the code
  ├── README.md            # This file
 
 ## Prerequisites
 
 To run this project, ensure you have the following installed:
 
-# Python 3.x
-# Jupyter Notebook (optional, for running the .ipynb file)
-# Required Python libraries:
-# pandas
-# numpy
-# matplotlib
-# scikit-learn
+- Python 3.x
+- Jupyter Notebook (optional, for running the .ipynb file)
+- Required Python libraries:
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
 
-##Installation
+## Installation
 Clone this repository:
 
-
-
-# git clone https://github.com/your-username/profit-prediction.git
-# cd profit-prediction
+- git clone https://github.com/your-username/profit-prediction.git
+- cd profit-prediction
 
 ## Install the required dependencies:
+- pip install pandas numpy matplotlib scikit-learn
 
-# pip install pandas numpy matplotlib scikit-learn
-# If using Jupyter Notebook, launch it:
-# bash
 
 
